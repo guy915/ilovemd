@@ -109,4 +109,4 @@ Check your usage at: https://modal.com/apps
 
 - [Modal Documentation](https://modal.com/docs)
 - [Marker AI GitHub](https://github.com/VikParuchuri/marker)
-- [iLoveMD Issues](https://github.com/guy915/iLoveMD/issues)
+- [iLoveMD Issues](https://github.com/guy915/ilovemd/issues)

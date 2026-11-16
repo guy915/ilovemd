@@ -22,7 +22,7 @@ Combine multiple markdown files into a single document.
 
 ```bash
 # Clone the repository
-git clone https://github.com/guy915/iLoveMD.git
+git clone https://github.com/guy915/ilovemd.git
 cd iLoveMD
 
 # Install dependencies
