@@ -9,7 +9,7 @@ export default function Footer() {
         <p className="text-sm text-gray-600 text-center">
           © {new Date().getFullYear()}{' '}
           <a
-            href="https://github.com/guy915/iLoveMD"
+            href="https://github.com/guy915/ilovemd"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-blue-600 font-medium transition-colors underline"

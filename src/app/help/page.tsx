@@ -167,7 +167,7 @@ export default function Help() {
             </li>
             <li className="flex items-start">
               <span className="text-primary-600 mr-2">•</span>
-              <span>Visit the <a href="https://github.com/guy915/iLoveMD" target="_blank" rel="noopener noreferrer" className="text-primary-600 underline hover:text-primary-700">project repository</a> for updates and known issues</span>
+              <span>Visit the <a href="https://github.com/guy915/ilovemd" target="_blank" rel="noopener noreferrer" className="text-primary-600 underline hover:text-primary-700">project repository</a> for updates and known issues</span>
             </li>
           </ul>
         </div>

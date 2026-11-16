@@ -159,7 +159,7 @@ export default function About() {
             and learning purposes.
           </p>
           <p className="text-gray-700">
-            We welcome feedback, bug reports, and feature requests. Check out the <a href="https://github.com/guy915/iLoveMD" target="_blank" rel="noopener noreferrer" className="text-primary-600 underline hover:text-primary-700">project repository</a>
+            We welcome feedback, bug reports, and feature requests. Check out the <a href="https://github.com/guy915/ilovemd" target="_blank" rel="noopener noreferrer" className="text-primary-600 underline hover:text-primary-700">project repository</a>
             to learn more about the implementation or contribute to the project.
           </p>
         </div>
